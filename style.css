@@ -1,0 +1,100 @@
+@media screen and (max-width: 800px
+){
+    #scb{
+        width:200px;
+        height: auto;
+        position: relative;
+    }
+}
+body{
+    background-image:linear-gradient(#a89553 30% ,#aaa957 50%,#a5b95e,#bbed7e);
+    float: left;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+.sub-head{
+    color:white;
+    text-align: center;
+}
+.intro{
+    color: #2b411c;
+    font-weight: bolder;
+    font-family:fantasy;
+    text-align: center;
+}
+.content{
+    color: #1f230d;
+    float: left;
+    text-align: center;
+}
+.about{
+    color:rgb(67, 89, 30) ;
+}
+.contd{
+    color: #2f3806;
+    text-align: center;
+    font-size: large;
+}
+.tt{
+    color: #1a2001;
+    float: left;
+    font-weight: bold;
+}
+.incidents{
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    float: left;
+    background-color: #a6bc56;
+}
+.navbar{
+    background-color:rgb(28, 37, 12);
+    position: fixed;
+    text-align: center;
+    width: max-content;
+    padding:10px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 20px black;
+    left: 40%;
+
+}
+.navbar a{
+    color:rgb(117, 115, 115);
+    text-shadow: 0px 0px 10px #2b411c;
+    text-decoration:none;
+}
+.navbar a:hover{
+    color:#d1ebbe;
+    text-shadow:0px 0px 20px #bbed7e;
+}
+.footer{
+    background-color: #1a2001;
+    color:#bbed7e;
+    width:100%;
+    height:max-content;
+
+}
+.footer button {
+    border-radius:5px;
+    border: solid 1px;
+    padding:15px;
+    margin:5px;
+    box-shadow:0px 0px 10px #a5b95e;
+    font-weight:bold ;
+}
+.footer a{
+    text-decoration:none;
+    color:black
+}
+.footer a:hover{
+    color:#1a2001;
+    text-shadow:0px 0px 10px #8cff00;
+}
+.name{
+    color: #579100;
+    font-family: cursive;
+}
+.name:hover{
+    text-shadow:0px 0px 10px #4f870a;
+    color: #1d4403;
+}
+
